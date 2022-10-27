@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         for(int i=100; i<=130; i=i+2){
-            //System.out.println("Hola: " + i);
+            //System.out.println("Holaaaaaaa: " + i);
         }
 
         for(int i=100; i>=0; i--){
