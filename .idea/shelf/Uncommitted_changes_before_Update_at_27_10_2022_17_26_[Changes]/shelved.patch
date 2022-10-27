@@ -1,0 +1,8 @@
+Index: texto.txt
+===================================================================
+diff --git a/texto.txt b/texto.txt
+deleted file mode 100644
+--- a/texto.txt	(revision 3b19050766166bc0818933a644ae0c273cbef8c4)
++++ /dev/null	(revision 3b19050766166bc0818933a644ae0c273cbef8c4)
+@@ -1,1 +0,0 @@
+-cambio desde interfaz web v.1.2
