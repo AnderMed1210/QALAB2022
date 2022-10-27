@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        /*CAMBIO - CRITERIO 11*/
+        /*CAMBIO-CRITERIO 11*/
         
         Toyota toyo = new Toyota("PAS201"); //200
         toyo.encenderMotor();
